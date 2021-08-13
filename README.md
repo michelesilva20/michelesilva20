@@ -14,6 +14,8 @@
   
   <img align="center" alt="Mi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mi-PHP" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  
   <img align="right" alt="Mini-Mi" height="100" src="https://media.giphy.com/media/Xvl4x6XkIs8zXz5hVu/giphy.gif">
   
 </div>
