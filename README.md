@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Michele
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
-- 🎒 Estudando HTML e CSS
+- 💙 Estudante de Análise e Desenvolvimento de Sistemas
+- 💙 Estudando HTML e CSS
 - 💙 Pronouns: ela/dela
 <div>
   <a href="https://github.com/michelesilva20">
