@@ -1,4 +1,4 @@
-### Olá! Eu sou a Michele
+### Welcome to my World
 
 - 💙 Estudante de Análise e Desenvolvimento de Sistemas
 - 💙 Estudando HTML, CSS, JavaScript e React
