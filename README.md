@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Michele
 
 - 💙 Estudante de Análise e Desenvolvimento de Sistemas
-- 💙 Estudando HTML e CSS
+- 💙 Estudando HTML, CSS, JavaScript e React
 - 💙 Pronouns: ela/dela
 - 💙 Contato: michele.silva0511@gmail.com
 
