@@ -1,6 +1,6 @@
 ### Welcome to my World
 
-- 💙 Estudante de Análise e Desenvolvimento de Sistemas
+- 💙 Formada em Análise e Desenvolvimento de Sistemas
 - 💙 Estudando HTML, CSS, JavaScript e React
 - 💙 Pronouns: ela/dela
 - 💙 Contato: michele.silva0511@gmail.com
