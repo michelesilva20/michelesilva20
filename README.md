@@ -1,9 +1,10 @@
-### Welcome to my World
+### Welcome!
 
-- 💙 Formada em Análise e Desenvolvimento de Sistemas
-- 💙 Estudando HTML, CSS, JavaScript e React
-- 💙 Pronouns: ela/dela
-- 💙 Contato: michele.silva0511@gmail.com
+- 💙 Front-end developer
+- 💙 Degree in Systems Analysis and Development
+- 💙 Studying React
+- 💙 Pronouns: she/her
+- 💙 Contact: michele.silva0511@gmail.com
 
 <div>
   <a href="https://github.com/michelesilva20">
@@ -28,5 +29,5 @@
  
 </div>
 
-![Snake animation](https://github.com/michelesilva20/michelesilva20/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/michelesilva20/michelesilva20/blob/output/github-contribution-grid-snake.svg)
 
