@@ -1,21 +1,24 @@
 ### Welcome!
 
-- 💙 Front-end developer
-- 💙 Degree in Systems Analysis and Development
-- 💙 Studying React
-- 💙 Pronouns: she/her
-- 💙 Contact: michele.silva0511@gmail.com
+- 💟 Front-end developer
+- 🪄 Degree in Systems Analysis and Development
+- 🚀 Studying React
+- 🍒 Pronouns: she/her
+- 🍀 Contact: michele.silva0511@gmail.com
 
 <div>
   <a href="https://github.com/michelesilva20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelesilva20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelesilva20&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelesilva20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/michelesilva20">
+    <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelesilva20&layout=compact&langs_count=7&theme=tokyonight"/></a>
 </div>
   
+  <div>
   <img align="center" alt="Mi-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Mi-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Mi-JS" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Mi-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </div>
   
   <img align="right" alt="Mini-Mi" height="100" src="https://media.giphy.com/media/Xvl4x6XkIs8zXz5hVu/giphy.gif">
   
