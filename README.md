@@ -53,10 +53,10 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=michelesilva20&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=michelesilva20&theme=dark&hide_border=true" alt="GitHub Streak">
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=michelesilva20&show_icons=true&theme=darcula" alt="Anurag's GitHub stats">
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=michelesilva20&show_icons=true&theme=darcula" alt="Anurag's GitHub stats">
 </div>
 
 
