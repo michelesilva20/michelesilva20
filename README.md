@@ -29,7 +29,7 @@
  
 
   
-  <p align="center">Olá Rede! Meu nome é Michele, tenho 22 anos e sou uma desenvolvedora Front-End em busca de aprendizado diário com novas tecnologias e novos desafios! Já me aventurei no HTML e CSS, Frameworks como o React, Laravel, Bootstrap, Tailwind e meu atual desafio se tornou o VueJS. Sejam muito bem-vindos ao meu Github aonde compartilho meus projetos. Espero que goste! :maple_leaf:</p>
+  <p align="center">Olá Rede! Meu nome é Michele, tenho 23 anos e sou uma desenvolvedora Front-End em busca de aprendizado diário com novas tecnologias e novos desafios! Já me aventurei no HTML e CSS, Frameworks como o React, Laravel, Bootstrap, Tailwind e meu atual desafio se tornou o VueJS. Sejam muito bem-vindos ao meu Github aonde compartilho meus projetos. Espero que goste! :maple_leaf:</p>
 </div>
 
 <div>
