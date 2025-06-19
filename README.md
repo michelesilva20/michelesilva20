@@ -50,17 +50,6 @@ Sou desenvolvedora e futura cientista de dados, apaixonada por tecnologia, visua
 
 ---
 
-### 📁 **Projetos em Destaque**
-
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| 🔎 **Análise Exploratória de Dados** | Python, Pandas, Matplotlib | Limpeza, análise e visualização de dados públicos |
-| 📊 **Dashboard de Vendas** *(em andamento)* | Power BI | Dashboard interativo com métricas de desempenho |
-| 📈 **Previsão de Séries Temporais** *(em breve)* | Prophet, Pandas | Modelagem preditiva com dados históricos |
-| 🧹 **Data Cleaning & Storytelling** | Python, Seaborn | Workflow de dados limpos e insights visuais |
-
----
-
 ### 📊 **Estatísticas do GitHub**
 
 <div align="center">
