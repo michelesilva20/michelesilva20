@@ -1,4 +1,4 @@
-<img src="https://github.com/michelesilva20/michelesilva20/blob/main/welcome.png" width="100%">
+<img src="https://github.com/michelesilva20/michelesilva20/blob/main/welcome-purple.png" width="100%">
 
 <div align="center" style="margin: 20px 0">
   <a href="https://www.linkedin.com/in/michele-silva-462b21218/">
