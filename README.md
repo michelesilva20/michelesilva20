@@ -17,11 +17,9 @@
 Sou desenvolvedora e futura cientista de dados, apaixonada por tecnologia, visualização de dados e storytelling. Atualmente curso um MBA em Data Science e Analytics pela USP/ESALQ e estou em transição de carreira para a área de dados.
 </p>
 
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzNTU2NTksIm5iZiI6MTc1MDM1NTM1OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE5VDE3NDkxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU5NTk1NjhmMGM3NTI5MDM0ZjczMTNjZmMzZGI1ZmI5OGJjY2YwMjdlODMxMGFhMTBjMTBkMzk5MjE4MzVlMzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-WeuSPqXlN78RFmvzZYcD8d899fiZ4h9w7mTrJiAq58" width="300px">
-</div>
-
 ---
+
+<img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzNTU2NTksIm5iZiI6MTc1MDM1NTM1OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE5VDE3NDkxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU5NTk1NjhmMGM3NTI5MDM0ZjczMTNjZmMzZGI1ZmI5OGJjY2YwMjdlODMxMGFhMTBjMTBkMzk5MjE4MzVlMzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-WeuSPqXlN78RFmvzZYcD8d899fiZ4h9w7mTrJiAq58" width="250px" align="right">
 
 ### 🎯 **Sobre Mim**
 
@@ -31,7 +29,10 @@ Sou desenvolvedora e futura cientista de dados, apaixonada por tecnologia, visua
 - 📌 Interesses: dados aplicados ao mercado financeiro, comportamento de usuários e produtos digitais  
 - ✍️ Criando projetos que transformam dados em histórias claras e impactantes  
 
+
 ---
+
+
 
 ### 🧰 **Tecnologias e Ferramentas**
 
