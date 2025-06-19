@@ -23,20 +23,14 @@
   <img src="https://media.giphy.com/media/Xvl4x6XkIs8zXz5hVu/giphy.gif" width="150px" align="right">
 </div>
 
-<p align="left">
-  Olá! Eu sou a <strong>Michele Silva</strong> 👋  
-  Formada em Análise e Desenvolvimento de Sistemas e atualmente imersa no mundo da <strong>Ciência de Dados</strong>, onde estou estudando Python, SQL, estatística, visualização e tudo o que envolve transformar dados em decisões inteligentes.  
-</p>
-
-<p align="left">
-  Estou construindo meu portfólio com calma, mas com muito amor! Por enquanto, você vai encontrar por aqui meus aprendizados, experimentos e estudos — desde dashboards até análise de dados com bibliotecas Python.  
-</p>
-
-<p align="left">
-  ✨ Apaixonada por tecnologia, dados, comunicação visual e aprendizado contínuo.  
-  🎓 Atualmente cursando MBA em Data Science e Analytics pela USP/ESALQ.  
-  💡 Curto especialmente dados aplicados a produtos digitais, mercado financeiro e comportamento de usuários.
-</p>
+<ul align="left">
+  <li>🎓 Formada em <strong>Análise e Desenvolvimento de Sistemas</strong>.</li>
+  <li>📊 Estudando <strong>Ciência de Dados</strong>: Python, SQL, estatística, visualização de dados e muito mais.</li>
+  <li>🛠️ Construindo meu portfólio com carinho e dedicação — dashboards, scripts, análises e projetos práticos.</li>
+  <li>📍 Interesses: <strong>produtos digitais</strong>, <strong>mercado financeiro</strong> e <strong>comportamento de usuários</strong>.</li>
+  <li>📚 Cursando MBA em <strong>Data Science e Analytics</strong> pela <strong>USP/ESALQ</strong>.</li>
+  <li>💡 Apaixonada por tecnologia, dados, comunicação visual e aprendizado contínuo.</li>
+</ul>
 
 ---
 
@@ -50,19 +44,35 @@
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Inglês-%230077B5.svg?style=for-the-badge&logo=duolingo&logoColor=white"/>
 </p>
 
 ---
 
-<h2 align="center">🚧 Em construção...</h2>
+<h2 align="center">📁 Projetos</h2>
 
-<p align="center">
-  📌 Projeto de Dashboard no Power BI<br>
-  📌 Análise de dados com Python + Pandas<br>
-</p>
+<ul>
+  <li>📊 <strong>Dashboard de Vendas - Power BI</strong> (em andamento)</li>
+  <li>📈 <strong>Análise Exploratória - Python + Pandas</strong></li>
+  <li>📉 <strong>Previsão de Séries Temporais</strong> com Prophet (em breve!)</li>
+  <li>📋 <strong>Data Cleaning e Storytelling com dados</strong></li>
+</ul>
 
 ---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michelesilva20&show_icons=true&theme=darcula" alt="Michele's GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=michelesilva20&show_icons=true&theme=darcula&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelesilva20&layout=compact&theme=darcula" />
 </div>
+
+---
+
+<h2 align="center">📍 Mapa de Contribuições</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michelesilva20&theme=tokyo-night" />
+</p>
+
+---
