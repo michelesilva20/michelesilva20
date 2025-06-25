@@ -13,8 +13,9 @@
 <h2 align="center">👩🏻‍💻 Olá, eu sou a Michele!</h2>
 
 <p align="center">
-Sou desenvolvedora e futura cientista de dados, apaixonada por tecnologia, visualização de dados e storytelling. Atualmente curso um MBA em Data Science e Analytics pela USP/ESALQ e estou em transição de carreira para a área de dados.
+Sou desenvolvedora em transição para a área de dados, com foco em visualização, análise e comunicação de informações com clareza. Atualmente curso MBA em Data Science e Analytics pela USP/ESALQ e sigo construindo projetos práticos enquanto aprofundo meus conhecimentos em tecnologia, estatística e storytelling com dados.
 </p>
+
 
 ---
 
