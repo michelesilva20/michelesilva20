@@ -37,16 +37,25 @@ Sou desenvolvedora full-stack e profissional de analytics, com experiência na c
 ### 🧰 **Tecnologias e Ferramentas**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffb800.svg?style=for-the-badge&logo=matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Inglês-%230077B5.svg?style=for-the-badge&logo=duolingo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 ---
