@@ -23,11 +23,11 @@ Sou desenvolvedora full-stack e profissional de analytics, com experiência na c
 
 ### 🎯 **Sobre Mim**
 
-- 👩🏻‍🎓 Graduada em Análise e Desenvolvimento de Sistemas  
-- 📊 Cursando MBA em Data Science & Analytics - USP/ESALQ  
-- 🧠 Explorando Python, Estatística, SQL e Machine Learning  
-- 📌 Interesses: dados aplicados ao mercado financeiro, comportamento de usuários e produtos digitais  
-- ✍️ Criando projetos que transformam dados em histórias claras e impactantes  
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas
+- 📚 Atualmente cursando MBA em Data Science & Analytics — USP/ESALQ
+- 💻 Desenvolvedora com foco em sites, landing pages, plataformas web e produtos digitais
+- 📈 Conhecimentos em Python, SQL, estatística, visualização de dados e analytics
+- ✨ Apaixonada por unir tecnologia, dados e estratégia para criar soluções úteis e escaláveis
 
 
 ---
