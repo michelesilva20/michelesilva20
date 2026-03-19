@@ -13,7 +13,7 @@
 <h2 align="center">👩🏻‍💻 Olá, eu sou a Michele!</h2>
 
 <p align="center">
-Sou desenvolvedora em transição para a área de dados, com foco em visualização, análise e comunicação de informações com clareza. Atualmente curso MBA em Data Science e Analytics pela USP/ESALQ e sigo construindo projetos práticos enquanto aprofundo meus conhecimentos em tecnologia, estatística e storytelling com dados.
+Sou desenvolvedora full-stack e profissional de analytics, com experiência na criação de sites, landing pages, plataformas web, dashboards e soluções orientadas por dados. Formada em ADS e cursando MBA em Data Science & Analytics pela USP/ESALQ, busco unir desenvolvimento, análise e estratégia para construir produtos digitais úteis, escaláveis e bem pensados.
 </p>
 
 
