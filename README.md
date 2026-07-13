@@ -1,83 +1,147 @@
-<img src="https://github.com/michelesilva20/michelesilva20/blob/main/welcome-purple.png" width="100%">
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-silva-462b21218/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_michelesilva23)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michele.silva0511@gmail.com)
-
-</div>
-
----
-
-<h2 align="center">👩🏻‍💻 Olá, eu sou a Michele!</h2>
-
 <p align="center">
-Sou desenvolvedora full-stack e profissional de analytics, com experiência na criação de sites, landing pages, plataformas web, dashboards e soluções orientadas por dados. Formada em ADS e cursando MBA em Data Science & Analytics pela USP/ESALQ, busco unir desenvolvimento, análise e estratégia para construir produtos digitais úteis, escaláveis e bem pensados.
+  <img
+    src="./welcome-purple.png"
+    alt="Banner de apresentação de Michele Andrade"
+    width="100%"
+  />
 </p>
 
+<h1 align="center">Michele Andrade</h1>
 
----
-
-<img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA0MjI3NzgsIm5iZiI6MTc1MDQyMjQ3OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjIwVDEyMjc1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmNWJhYTRhYzUyOGE0Yzk2YmYwZDgyOWU2MzZhNGM0NzkyYjQzZWFhMDYxMmVkNzNlMjVjYjkyYzUxN2Q0MzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.F88uV9BDLRVI9dvXljkISSR4CVJzV6nW1IMOS7l03Bg" width="250px" align="right">
-
-### 🎯 **Sobre Mim**
-
-- 🎓 Graduada em Análise e Desenvolvimento de Sistemas
-- 📚 Atualmente cursando MBA em Data Science & Analytics — USP/ESALQ
-- 💻 Desenvolvedora com foco em sites, landing pages, plataformas web e produtos digitais
-- 📈 Conhecimentos em Python, SQL, estatística, visualização de dados e analytics
-- ✨ Apaixonada por unir tecnologia, dados e estratégia para criar soluções úteis e escaláveis
-
-
----
-
-
-
-### 🧰 **Tecnologias e Ferramentas**
+<h3 align="center">
+  Full Stack Developer • React • Next.js • TypeScript • Node.js • NestJS • Generative AI
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  Desenvolvo aplicações web, produtos SaaS, APIs e sistemas corporativos,
+  conectando tecnologia, experiência do usuário e regras de negócio.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <a href="https://www.linkedin.com/in/michele-andrade-dev/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://emilabs.dev/">
+    <img
+      src="https://img.shields.io/badge/Portfólio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"
+      alt="Portfólio"
+    />
+  </a>
+  <a href="mailto:michele.silva0511@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="E-mail"
+    />
+  </a>
 </p>
 
 ---
 
-### 📊 **Estatísticas do GitHub**
+## 👩🏻‍💻 Sobre mim
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=michelesilva20&show_icons=true&theme=dark&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelesilva20&layout=compact&theme=dark" />
-</div>
+Sou **Desenvolvedora Full Stack** com experiência no desenvolvimento e evolução de aplicações web, produtos digitais, dashboards, APIs e sistemas corporativos.
+
+- 💻 Atuo no frontend e backend com **React, Next.js, TypeScript, Node.js e NestJS**
+- 🧩 Participo da análise de requisitos, regras de negócio, desenvolvimento, integração e evolução das aplicações
+- 🗄️ Trabalho com bancos relacionais, utilizando **PostgreSQL, MySQL e SQL Server**
+- ☁️ Tenho experiência com **AWS, Docker, VPS, deploy e integração entre sistemas**
+- 🤖 Estudo e aplico **IA generativa no desenvolvimento de software**, utilizando GPT, Claude, Cursor e OpenAI API
+- 🎓 Sou formada em **Análise e Desenvolvimento de Sistemas pela FATEC Botucatu**
+- 📊 Atualmente curso **MBA em Data Science, IA e Analytics pela USP/ESALQ**
+
+Acredito que a IA não substitui o raciocínio técnico. Ela potencializa profissionais que sabem compreender o problema, fornecer contexto, validar resultados e transformar ideias em soluções funcionais.
 
 ---
 
-### 🗺️ **Mapa de Atividades**
+## 🧰 Tecnologias e ferramentas
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michelesilva20&theme=github-compact" />
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
+
+### Backend e APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/REST_APIs-5A29E4?style=flat-square&logo=fastapi&logoColor=white" alt="APIs REST" />
+</p>
+
+### Bancos de dados e ORM
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+</p>
+
+### Cloud, infraestrutura e desenvolvimento
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" alt="Linux" />
+</p>
+
+### Dados e inteligência artificial
+
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Inteligência Artificial Generativa" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI" />
 </p>
 
 ---
 
-<div align="center">
-  💬 Vamos conversar! Estou sempre aberta a novas ideias, conexões e colaborações.<br><br>
-  <i>“Transformar dados em decisões é mais que técnica, é propósito.”</i>
-</div>
+## 📚 Atualmente estudando
+
+- ☁️ Preparação para a certificação **AWS Certified AI Practitioner**
+- 🤖 Aplicação de IA generativa em produtos e processos de desenvolvimento
+- 🏗️ Arquitetura de aplicações Full Stack, SaaS e sistemas escaláveis
+- 🔐 Segurança, autenticação, autorização e controle de acesso
+- 📊 Data Science, IA e Analytics no MBA da USP/ESALQ
+
+---
+
+## 🚀 Áreas de interesse
+
+- Desenvolvimento Full Stack
+- Aplicações web e produtos SaaS
+- APIs e integrações entre sistemas
+- Inteligência Artificial Generativa
+- Arquitetura e escalabilidade
+- Experiência do usuário
+- Cloud computing e AWS
+
+---
+
+<p align="center">
+  <strong>Construindo produtos digitais com código, contexto e inteligência artificial.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/michele-andrade-dev/">LinkedIn</a>
+  •
+  <a href="https://emilabs.dev/">Portfólio</a>
+  •
+  <a href="mailto:michele.silva0511@gmail.com">E-mail</a>
+</p>
