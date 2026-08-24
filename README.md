@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="./welcome-purple.png"
-    alt="Banner de apresentação de Michele Andrade"
+    alt="Michele Andrade — Software Engineer e Full Stack Developer"
     width="100%"
   />
 </p>
@@ -9,12 +9,16 @@
 <h1 align="center">Michele Andrade</h1>
 
 <h3 align="center">
-  Full Stack Developer • React • Next.js • TypeScript • Node.js • NestJS • Generative AI
+  Software Engineer • Full Stack Developer
 </h3>
 
 <p align="center">
-  Desenvolvo aplicações web, produtos SaaS, APIs e sistemas corporativos,
-  conectando tecnologia, experiência do usuário e regras de negócio.
+  React • TypeScript • Node.js • NestJS • PostgreSQL • AWS • GenAI
+</p>
+
+<p align="center">
+  Desenvolvo aplicações web e mobile, APIs, sistemas corporativos e produtos digitais,
+  conectando tecnologia, regras de negócio e experiência do usuário.
 </p>
 
 <p align="center">
@@ -42,32 +46,97 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-Sou **Desenvolvedora Full Stack** com experiência no desenvolvimento e evolução de aplicações web, produtos digitais, dashboards, APIs e sistemas corporativos.
+Sou **Software Engineer e Desenvolvedora Full Stack**, com experiência no desenvolvimento e evolução de aplicações web e mobile, APIs, sistemas corporativos e soluções digitais utilizadas em ambientes reais de negócio.
 
-- 💻 Atuo no frontend e backend com **React, Next.js, TypeScript, Node.js e NestJS**
-- 🧩 Participo da análise de requisitos, regras de negócio, desenvolvimento, integração e evolução das aplicações
-- 🗄️ Trabalho com bancos relacionais, utilizando **PostgreSQL, MySQL e SQL Server**
-- ☁️ Tenho experiência com **AWS, Docker, VPS, deploy e integração entre sistemas**
-- 🤖 Estudo e aplico **IA generativa no desenvolvimento de software**, utilizando GPT, Claude, Cursor e OpenAI API
-- 🎓 Sou formada em **Análise e Desenvolvimento de Sistemas pela FATEC Botucatu**
-- 📊 Atualmente curso **MBA em Data Science, IA e Analytics pela USP/ESALQ**
+Minha atuação principal envolve **React, TypeScript, Node.js, NestJS, PostgreSQL e AWS**, participando de atividades que vão desde a análise de requisitos e regras de negócio até desenvolvimento frontend e backend, integrações entre sistemas, bancos de dados, correção de bugs e evolução de aplicações em produção.
 
-Acredito que a IA não substitui o raciocínio técnico. Ela potencializa profissionais que sabem compreender o problema, fornecer contexto, validar resultados e transformar ideias em soluções funcionais.
+Também trabalho com **Inteligência Artificial Generativa aplicada ao desenvolvimento de software**, incluindo integração com APIs de IA, automação, análise de requisitos, documentação e desenvolvimento assistido.
+
+Atualmente amplio minha atuação no ecossistema **Java, Spring Boot e Angular**, com foco em engenharia de software, arquitetura de aplicações e construção de soluções escaláveis.
+
+- 🎓 Tecnóloga em **Análise e Desenvolvimento de Sistemas — FATEC Botucatu**
+- 📊 MBA em **Data Science, IA e Analytics — USP/ESALQ**
+- ☁️ Experiência com **AWS, Docker, APIs e infraestrutura de aplicações**
+- 🤖 Aplicação de **GenAI e OpenAI API** em produtos e processos de desenvolvimento
 
 ---
 
-## 🧰 Tecnologias e ferramentas
+## 🚀 Projetos em destaque
+
+### 🧠 NINA — Professional Knowledge & Career Intelligence
+
+Assistente profissional inteligente criado para centralizar conhecimento de carreira, experiências, projetos, skills, vagas e evolução profissional.
+
+Entre os módulos desenvolvidos estão:
+
+- base de conhecimento profissional;
+- Evidence Engine para skills;
+- análise de aderência a vagas;
+- Recruiter Intelligence;
+- Recruiter Score;
+- Profile SEO;
+- análise de Market Fit;
+- importação e interpretação de métricas;
+- integração com OpenAI.
+
+**Stack:** Next.js • NestJS • TypeScript • PostgreSQL • Prisma • OpenAI • Docker
+
+---
+
+### 💳 Veltrix
+
+Plataforma Full Stack desenvolvida com foco em arquitetura, segurança, organização de domínio e preparação de infraestrutura.
+
+O projeto inclui conceitos como:
+
+- frontend e backend desacoplados;
+- autenticação e autorização;
+- APIs;
+- PostgreSQL;
+- Docker;
+- gerenciamento de secrets;
+- TLS;
+- backup;
+- documentação técnica e preparação para deploy.
+
+**Foco:** Full Stack • Arquitetura • APIs • PostgreSQL • Docker • Segurança
+
+---
+
+### 🏢 STI V2
+
+Sistema voltado à digitalização e evolução de processos corporativos, trabalhando integração entre frontend, backend, regras de negócio, dados e operação.
+
+**Foco:** Sistemas corporativos • Full Stack • APIs • Banco de dados • Automação
+
+---
+
+### 🎓 Eduvy
+
+Produto digital desenvolvido com foco em experiência do usuário, organização de funcionalidades, frontend, backend e evolução de produto.
+
+**Foco:** Aplicações web • Produto digital • Full Stack • UX
+
+---
+
+<p align="center">
+  <a href="https://emilabs.dev/">
+    <strong>→ Ver mais projetos no meu portfólio</strong>
+  </a>
+</p>
+
+---
+
+## ⚙️ Stack principal
 
 ### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
 ### Backend e APIs
@@ -76,20 +145,19 @@ Acredito que a IA não substitui o raciocínio técnico. Ela potencializa profis
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/REST_APIs-5A29E4?style=flat-square&logo=fastapi&logoColor=white" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/REST_APIs-5A29E4?style=flat-square" alt="REST APIs" />
 </p>
 
-### Bancos de dados e ORM
+### Bancos de dados
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
-### Cloud, infraestrutura e desenvolvimento
+### Cloud e infraestrutura
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
@@ -99,38 +167,77 @@ Acredito que a IA não substitui o raciocínio técnico. Ela potencializa profis
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" alt="Linux" />
 </p>
 
-### Dados e inteligência artificial
+### Inteligência Artificial
 
 <p>
-  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Inteligência Artificial Generativa" />
+  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI" />
 </p>
 
 ---
 
-## 📚 Atualmente estudando
+## 🌱 Atualmente desenvolvendo
 
-- ☁️ Preparação para a certificação **AWS Certified AI Practitioner**
-- 🤖 Aplicação de IA generativa em produtos e processos de desenvolvimento
-- 🏗️ Arquitetura de aplicações Full Stack, SaaS e sistemas escaláveis
-- 🔐 Segurança, autenticação, autorização e controle de acesso
-- 📊 Data Science, IA e Analytics no MBA da USP/ESALQ
+Estou expandindo minha stack e aprofundando conceitos de engenharia de software em:
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+</p>
+
+- ☕ Java e Programação Orientada a Objetos
+- 🍃 Spring Boot e desenvolvimento de APIs REST
+- 🅰️ Angular
+- 🏗️ Arquitetura e organização de aplicações
+- 🔐 Segurança, autenticação e autorização
+- ☁️ Cloud computing e AWS
+- 🤖 Integração de Inteligência Artificial em produtos de software
 
 ---
 
-## 🚀 Áreas de interesse
+## 🧩 Experiência adicional
 
+Também já trabalhei ou desenvolvi projetos utilizando:
+
+`Laravel` • `WordPress` • `HTML` • `CSS` • `Tailwind CSS` • `Framer Motion` • `Vite` • `Python` • `Pandas` • `Power BI`
+
+---
+
+## 🎯 Áreas de interesse
+
+- Engenharia de Software
 - Desenvolvimento Full Stack
-- Aplicações web e produtos SaaS
-- APIs e integrações entre sistemas
+- Aplicações web e mobile
+- Produtos SaaS
+- APIs e integrações
+- Sistemas corporativos
 - Inteligência Artificial Generativa
-- Arquitetura e escalabilidade
-- Experiência do usuário
+- Arquitetura de aplicações
 - Cloud computing e AWS
+
+---
+
+## 🎓 Formação
+
+**MBA em Data Science, IA e Analytics**  
+USP/ESALQ
+
+**Tecnologia em Análise e Desenvolvimento de Sistemas**  
+FATEC Botucatu
+
+---
+
+## 💡 Como eu trabalho
+
+Gosto de entender o problema antes de partir para o código.
+
+Meu processo normalmente envolve:
+
+`Contexto → Requisitos → Regras de negócio → Arquitetura → Implementação → Validação → Evolução`
+
+Utilizo Inteligência Artificial como ferramenta de apoio ao desenvolvimento, mas mantenho o foco em **compreensão do problema, validação técnica, segurança, qualidade e decisões de engenharia**.
 
 ---
 
@@ -145,3 +252,4 @@ Acredito que a IA não substitui o raciocínio técnico. Ela potencializa profis
   •
   <a href="mailto:michele.silva0511@gmail.com">E-mail</a>
 </p>
+```
