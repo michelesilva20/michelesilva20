@@ -1,91 +1,131 @@
 # Michele Andrade
 
-### Software Engineer · Backend & Full-Stack
+**Software Engineer · Backend & Full-Stack**  
+Engineering with logic. Creating with imagination.
+
+[LinkedIn](https://www.linkedin.com/in/michele-andrade-dev/) · [Portfolio](https://micheleandrade.dev/) · [Main quests](#02--main-quests)
+
+![Midnight Quest: an original pixel-art developer at her violet-lit desk, overlooking a quiet digital world and a glowing portal.](assets/hero/midnight-quest.webp)
+
+**MICHELE.DEV // BUILD QUEST**  
+Java · Spring Boot · TypeScript · Node.js · AI-assisted development
+
+<details>
+<summary>Play the start-screen animation · optional motion</summary>
+
+![A small original violet companion floats gently inside a portal beneath a quiet star field.](assets/animations/start-screen.gif)
+
+Four-second loop, without rapid flashes. The page stays still while this panel is closed. The companion is an original concept study, **not the established Nina design**.
+
+</details>
+
+## 01 / Player profile
+
+<img align="right" src="assets/characters/engineer-crest.svg" alt="Original violet console crest with code brackets." width="80" />
 
 I build web and mobile applications, REST APIs, integrations and business systems. My professional experience centers on **TypeScript, Node.js, NestJS, React, React Native and PostgreSQL**, with AWS and Docker.
 
-I am deepening my backend engineering practice with **Java and Spring Boot**, focusing on domain modeling, security, persistence and automated testing.
+I am deepening my practice with **Java and Spring Boot**, focusing on domain modeling, backend architecture, security, persistence and automated testing.
 
-[LinkedIn](https://www.linkedin.com/in/michele-andrade-dev/) · [Portfolio](https://micheleandrade.dev/) · [Public engineering projects](#featured-engineering-projects)
+**Based in Brazil.** Open to opportunities in Brazil, international remote work and European relocation, especially Portugal and Spain.
 
-<p align="center">
-  <img src="./welcome-purple.png" alt="Welcome — purple and neon lettering" width="420" />
-</p>
+## 02 / Main quests
 
-## Featured Engineering Projects
+*Original conceptual emblems below; these are not product screenshots. All three projects are in development.*
 
-### Sabli · Restaurant SaaS
+### Sabli / Restaurant SaaS
 
-Restaurant SaaS under development at Emilabs. The main branch currently contains a frontend demonstration; Java/Spring Boot backend work and integrations are under review in development branches.
+<img align="right" src="assets/projects/sabli.svg" alt="Concept emblem: a restaurant serving dome drawn as a violet quest artifact." width="112" />
 
-**Status:** private repository. No source code or internal documentation is published here.
+Restaurant SaaS under development at **Emilabs**. The main branch currently contains a frontend demonstration; **Java/Spring Boot** backend work and integrations are under review in development branches.
 
-### [Nivva](https://github.com/michelesilva20/nivva) · Personal finance
+**Private repository.** This public summary is shared with permission; source code and internal documentation remain private.
 
-A mobile application and Java backend for organizing accounts, income, expenses and goals.
+### [Nivva](https://github.com/michelesilva20/nivva) / Personal finance
 
-**Stack:** Java 21 · Spring Boot · PostgreSQL · React Native · Expo · TypeScript.
+<img align="right" src="assets/projects/nivva.svg" alt="Concept emblem: a mobile device with a violet path toward a financial goal." width="112" />
 
-**Engineering focus:** user-owned financial data, integer-cent amounts, derived balances, repository adapters and concurrency control for goal contributions. The codebase includes JUnit/Testcontainers and TypeScript tests.
+A mobile application and Java backend for accounts, income, expenses and goals.
 
-**Status:** active development. Accounts, transactions and goals can use the API; monthly budgets remain on-device. AI insights, Open Finance and cloud deployment are future work.
+**Java 21 · Spring Boot · PostgreSQL · React Native · Expo · TypeScript**
 
-[Explore code and documentation](https://github.com/michelesilva20/nivva)
+User-owned data, integer-cent amounts, derived balances, repository adapters and concurrency control for goal contributions. JUnit/Testcontainers and TypeScript tests support the implementation.
 
-### [Nexum Tower](https://github.com/michelesilva20/Nexum-Tower) · Logistics platform
+**Current scope:** accounts, transactions and goals can use the API; monthly budgets remain on-device. AI insights, Open Finance and cloud deployment are future work.
+
+[Explore Nivva →](https://github.com/michelesilva20/nivva)
+
+### [Nexum Tower](https://github.com/michelesilva20/Nexum-Tower) / Logistics platform
+
+<img align="right" src="assets/projects/nexum.svg" alt="Concept emblem: three logistics towers connected by a violet route." width="112" />
 
 A full-stack platform for multi-tenant administration and logistics master data: branches, customers, locations, drivers, vehicles and routes.
 
-**Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma.
+**Next.js · NestJS · TypeScript · PostgreSQL · Prisma**
 
-**Engineering focus:** tenant and branch access boundaries, RBAC/ABAC, cookie-based authentication, audit records, service tests and a CI definition.
+Tenant and branch access boundaries, RBAC/ABAC, cookie-based authentication, audit records, service tests and CI.
 
-**Status:** in development. The operational dashboard uses demonstration data. Shipment/trip execution and product AI are future work; database isolation has deployment validation gates.
+**Current scope:** the operational dashboard uses demonstration data. Shipment/trip execution and product AI are future work; database isolation has deployment validation gates.
 
-### [Eduvy](https://github.com/michelesilva20/eduvy) · Learning and assessments
+[Explore Nexum Tower →](https://github.com/michelesilva20/Nexum-Tower)
 
-A learning platform with courses, cohorts, enrollments, progress and assessment workflows.
+<details>
+<summary>Side quests · education, interfaces and product exploration</summary>
 
-**Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma · Redis/BullMQ.
+**[Eduvy](https://github.com/michelesilva20/eduvy)** — Courses, cohorts, enrollments, progress and assessments. Next.js, NestJS, TypeScript, PostgreSQL, Prisma and Redis/BullMQ; tenant-aware data access, assessment rules, transactional outbox infrastructure, database tests and CI. In development, with no commercial deployment or generative AI functionality claimed.
 
-**Engineering focus:** tenant-aware data access, assessment rules, transactional outbox infrastructure, database tests and CI configuration.
+**[Luméa Beauty](https://github.com/michelesilva20/lumea-beauty)** — Beauty storefront, reusable components and responsive visual design.
 
-**Status:** in development. No commercial deployment or generative AI functionality is claimed.
+**[RotaFlux](https://github.com/michelesilva20/rotaflux)** and **[RedaçãoLab](https://github.com/michelesilva20/redacaolab)** — Logistics and education workflow explorations.
 
-### Frontend and product experience
+Luméa Beauty, RotaFlux and RedaçãoLab are **frontend prototypes with demonstration data**.
 
-[Luméa Beauty](https://github.com/michelesilva20/lumea-beauty) explores a beauty storefront, reusable components and responsive visual design. [RotaFlux](https://github.com/michelesilva20/rotaflux) and [RedaçãoLab](https://github.com/michelesilva20/redacaolab) explore logistics and education workflows.
+</details>
 
-These are **frontend prototypes** with demonstration data, rather than evidence of production backend services.
+## 03 / Skill tree
 
-## Tech Stack
+![A violet constellation connects six practice areas: Backend, Web and Mobile, Data and Cloud, Engineering, AI Workflow and Java Focus. It shows categories, not proficiency levels.](assets/skills/constellation.svg)
 
-| Area | Technologies and practice |
-| --- | --- |
-| Backend · professional experience | Node.js, NestJS, TypeScript, REST APIs and integrations |
-| Backend · deepening specialization | Java, Spring Boot, domain modeling and backend architecture |
-| Frontend & mobile | React, React Native, TypeScript and JavaScript |
-| Data & infrastructure | PostgreSQL, SQL, AWS and Docker |
-| Engineering | Git, automated tests, API contracts, documentation and CI/CD workflows |
-| AI-assisted engineering | Generative AI for requirements, implementation, debugging, review, tests and documentation |
+- **Backend / professional experience:** Node.js, NestJS, TypeScript, REST APIs and integrations.
+- **Java focus / deepening specialization:** Java, Spring Boot, domain modeling and backend architecture.
+- **Web + mobile:** React, React Native, TypeScript and JavaScript.
+- **Data + cloud:** PostgreSQL, SQL, AWS and Docker.
+- **Engineering:** Git, automated testing, API contracts, security, documentation and CI/CD workflows.
+- **AI workflow:** generative AI for requirements, implementation, debugging, review, tests and documentation.
 
-## Engineering + AI
+## 04 / AI module
 
-I use AI to support requirements analysis, technical planning, implementation, debugging, refactoring, code review, test creation and documentation. Technical decisions, critical review, security and validation remain human responsibilities.
+<img align="right" src="assets/decorations/ai-core.svg" alt="Original geometric AI core connected to six small circuit nodes." width="80" />
 
-AI assistance during development is distinct from AI inside a product. My private NINA project includes a backend OpenAI integration; that code is not publicly available for review. Nivva's intelligent insights remain planned.
+**AI accelerates the workflow. Engineering judgment stays human.**
 
-## Education
+Requirements analysis → planning → implementation → debugging → refactoring → testing → code review → documentation.
 
-- **Degree in Systems Analysis and Development** — FATEC.
+I use AI as an engineering tool. Technical decisions, critical review, security and validation remain my responsibility.
+
+<details>
+<summary>Development assistance and product AI</summary>
+
+AI assistance during development is distinct from AI inside a product. My private **NINA** project includes a backend OpenAI integration; its code is not publicly available for review. Nivva's intelligent insights remain planned. The NINA software project is separate from the companion concept artwork on this page.
+
+</details>
+
+## 05 / Journey
+
+- **Degree in Systems Analysis and Development** — FATEC Botucatu.
 - **MBA in Data Science, Artificial Intelligence and Analytics** — USP/ESALQ, in progress.
 
-## Contact & Opportunities
+## 06 / Continue the journey
 
-I am open to software engineering opportunities in Brazil and internationally, including remote roles from Brazil and European opportunities that consider international candidates.
+![A quiet violet horizon leads toward a small illuminated portal: the next chapter of the journey.](assets/decorations/next-horizon.svg)
 
-[LinkedIn](https://www.linkedin.com/in/michele-andrade-dev/) · [Portfolio](https://micheleandrade.dev/)
+**Let's build something meaningful.**
 
-## Em português
+[LinkedIn](https://www.linkedin.com/in/michele-andrade-dev/) · [Portfolio](https://micheleandrade.dev/) · [Public repositories](https://github.com/michelesilva20?tab=repositories)
 
-Sou Software Engineer com experiência em sistemas web e mobile, APIs e integrações, principalmente com TypeScript, Node.js/NestJS e React/React Native. Aprofundo Java e Spring Boot com foco em backend, arquitetura, segurança e testes. Uso IA com revisão e responsabilidade técnica. Sabli e Nivva orientam minha evolução de produto; os projetos públicos acima permitem explorar evidências de código e documentação.
+<details>
+<summary>Em português</summary>
+
+Sou Software Engineer com experiência em sistemas web e mobile, APIs e integrações, principalmente com TypeScript, Node.js/NestJS e React/React Native. Aprofundo Java e Spring Boot com foco em backend, arquitetura, segurança e testes. Uso IA com revisão e responsabilidade técnica. Sabli e Nivva orientam minha evolução de produto; os projetos públicos acima permitem explorar evidências de código e documentação. Busco oportunidades no Brasil, trabalho remoto internacional e possibilidades de realocação para a Europa.
+
+</details>
