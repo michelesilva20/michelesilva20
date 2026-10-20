@@ -1,13 +1,13 @@
 # Michele Andrade
 
-**Software Engineer · Backend & Full-Stack**  
+**Software Engineer · Backend & Full-Stack**<br>
 Engineering with logic. Creating with imagination.
 
 [LinkedIn](https://www.linkedin.com/in/michele-andrade-dev/) · [Portfolio](https://micheleandrade.dev/) · [Main quests](#02--main-quests)
 
 ![Midnight Quest: an original pixel-art developer at her violet-lit desk, overlooking a quiet digital world and a glowing portal.](assets/hero/midnight-quest.webp)
 
-**MICHELE.DEV // BUILD QUEST**  
+**MICHELE.DEV // BUILD QUEST**<br>
 Java · Spring Boot · TypeScript · Node.js · AI-assisted development
 
 <details>
@@ -33,13 +33,13 @@ I am deepening my practice with **Java and Spring Boot**, focusing on domain mod
 
 *Original conceptual emblems below; these are not product screenshots. All three projects are in development.*
 
-### Sabli / Restaurant SaaS
+### [Sabli](https://github.com/michelesilva20/sabli) / Restaurant SaaS
 
 <img align="right" src="assets/projects/sabli.svg" alt="Concept emblem: a restaurant serving dome drawn as a violet quest artifact." width="112" />
 
 Restaurant SaaS under development at **Emilabs**. The main branch currently contains a frontend demonstration; **Java/Spring Boot** backend work and integrations are under review in development branches.
 
-**Private repository.** This public summary is shared with permission; source code and internal documentation remain private.
+[Explore Sabli →](https://github.com/michelesilva20/sabli)
 
 ### [Nivva](https://github.com/michelesilva20/nivva) / Personal finance
 

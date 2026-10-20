@@ -34,7 +34,7 @@ body+=f'<path d="M360 42V258M170 64H550M170 150H550M170 236H550" fill="none" str
 items=[(24,32,'BACKEND'),(394,32,'WEB + MOBILE'),(24,118,'DATA + CLOUD'),(394,118,'ENGINEERING'),(24,204,'AI WORKFLOW'),(394,204,'JAVA FOCUS')]
 for x,y,label in items:
     body+=f'<rect x="{x}" y="{y}" width="302" height="64" rx="10" fill="{PANEL}" stroke="{EDGE}"/>'
-    body+=node(x+26,y+32,4)+f'<text x="{x+46}" y="{y+40}" fill="{LAV}" font-family="monospace" font-size="23">{label}</text>'
+    body+=node(x+26,y+32,4)+f'<text x="{x+46}" y="{y+40}" fill="{LAV}" font-family="monospace" font-size="32">{label}</text>'
 for y in (64,150,236): body+=node(360,y,5)
 svg('skills/constellation.svg',720,300,body)
 
