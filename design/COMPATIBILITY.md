@@ -25,7 +25,7 @@ Validated on 20 October 2026 against the actual GitHub branch README, not a webs
 
 ## Asset budget
 
-All ten local assets together: 298,600 bytes (about 292 KiB). The hero is 235,964 bytes, the GIF 54,745 bytes and each vector less than 2.4 KB. The unused standalone PNG is the sprite reference; it is not an extra request in the README. No third-party badge, stats or animation service is required.
+After the user's request for a simpler opening, all ten local assets together: 71,250 bytes (about 70 KiB). The minimalist banner is 8,614 bytes, the GIF 54,745 bytes and each vector less than 2.4 KB. The unused standalone PNG is the sprite reference; it is not an extra request in the README. No third-party badge, stats or animation service is required. The earlier hero is no longer loaded; its source remains in Git history.
 
 No full performance benchmark or physical-device test was run. Mobile inspection used browser viewport emulation. Screen-reader access was assessed through native text, heading structure, alternative text and the browser accessibility tree, not a complete assistive-technology audit.
 

@@ -15,22 +15,22 @@ Sabli was found publicly visible during this task. The user explicitly instructe
 - Background #0B0914; panel #151024; quiet border #382650.
 - Violet #A855F7 and lavender #C4B5FD carry the identity. Off-white #F5F3FF for small highlights.
 - GitHub's native typography for all professional content; monospace only in the skill illustration.
-- A single detailed pixel-art hero, paired with small original geometric mission emblems. Own dark backgrounds work against both GitHub themes.
+- A small, quiet code-symbol banner, paired with original geometric mission emblems. Own dark backgrounds work against both GitHub themes. The user requested this simpler opening after reviewing the first illustrated version.
 - Six numbered chapters create progression without invented game stats.
 - Native Markdown text, vertical projects and compact decorative art keep the page readable at narrow widths.
 - One optional four-second GIF: gentle floating, slow light pulse and occasional blinking; static default.
 
 ## Artwork and provenance
 
-The hero was generated with the built-in image generation tool, inspected and encoded to WebP at the original 2172 × 724 dimensions. No third-party character, sprite library or real-person photo was used. The source PNG is retained locally; the optimized final is in assets/hero/midnight-quest.webp.
+The revised banner was generated with the built-in image generation tool, inspected and encoded to WebP at the original 2172 × 724 dimensions. It is displayed at up to 640px wide. No third-party character, sprite library or real-person photo was used. The source PNG is retained locally; the optimized final is in assets/hero/minimal-console.webp. The previous scene is retained in Git history, not loaded by the page.
 
 The SVG illustrations and pixel motion are original deterministic artwork; rebuild them with Python, Pillow and design/build_assets.py. The standalone companion PNG is the small sprite reference for the optional animation.
 
 No reference image or original Nina artwork was included with the attachment. The violet companion is explicitly labeled an original concept study, not Nina. It must not be treated as the established mascot identity. The NINA software project is separately identified in the AI text.
 
-The hero contains the styled developer and companion. The console crest, restaurant dome, finance device, connected logistics towers, skill constellation, AI circuit and horizon share the palette and framing. Mission art is conceptual, not product screenshots.
+The opening now uses only a small muted code symbol, fine violet lines and ample empty space. The companion appears only in the optional animation. The console crest, restaurant dome, finance device, connected logistics towers, skill constellation, AI circuit and horizon share the palette and framing. Mission art is conceptual, not product screenshots.
 
-## Generation prompt
+## Original concept prompt (superseded)
 
 ```text
 Use case: stylized-concept
@@ -40,5 +40,9 @@ Create a sophisticated original premium indie-game pixel-art scene for Brazilian
 
 ## Editorial assessment
 
-Identity and immersion come primarily from the original hero; the rest of the page stays quiet. Readability and professional credibility take priority over motion density. Accessibility includes meaningful alternative text, no essential text baked into the hero, no fictitious levels and optional motion. Performance is supported by local assets totaling about 292 KiB. The deliberate tradeoff is that the detailed hero becomes atmospheric on a phone; all essential information remains selectable text.
+The revised opening deliberately gives priority to the name, role and links. Readability and professional credibility take priority over scene detail and motion density. Accessibility includes descriptive alternative text, no essential text baked into the banner, no fictitious levels and optional motion. All current assets total about 70 KiB; the banner itself is 8.4 KiB.
+
+## Revised banner prompt
+
+Minimalist horizontal GitHub README banner, 3:1. Deep near-black #0B0914 background. A single small code bracket symbol centered, thin muted lavender strokes, two faint violet geometric lines, a few dim square pixels and 90 percent empty space. Calm, basic, professional flat graphic style, without glow, scenery, characters or text beyond the code symbol. Generated with the built-in image generation tool.
 

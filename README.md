@@ -5,7 +5,9 @@ Engineering with logic. Creating with imagination.
 
 [LinkedIn](https://www.linkedin.com/in/michele-andrade-dev/) · [Portfolio](https://micheleandrade.dev/) · [Main quests](#02--main-quests)
 
-![Midnight Quest: an original pixel-art developer at her violet-lit desk, overlooking a quiet digital world and a glowing portal.](assets/hero/midnight-quest.webp)
+<p align="center">
+  <img src="assets/hero/minimal-console.webp" alt="A small muted violet code symbol and two fine lines on a quiet dark background." width="640" />
+</p>
 
 **MICHELE.DEV // BUILD QUEST**<br>
 Java · Spring Boot · TypeScript · Node.js · AI-assisted development
