@@ -1,195 +1,91 @@
-<p align="center">
-  <img
-    src="./welcome-purple.png"
-    alt="Michele Andrade — Software Engineer"
-    width="100%"
-  />
-</p>
+# Michele Andrade
 
-<h1 align="center">Michele Andrade</h1>
+### Software Engineer · Backend & Full-Stack
 
-<h3 align="center">
-  Software Engineer • AI-Assisted Software Development
-</h3>
+I build web and mobile applications, REST APIs, integrations and business systems. My professional experience centers on **TypeScript, Node.js, NestJS, React, React Native and PostgreSQL**, with AWS and Docker.
+
+I am deepening my backend engineering practice with **Java and Spring Boot**, focusing on domain modeling, security, persistence and automated testing.
+
+[LinkedIn](https://www.linkedin.com/in/michele-andrade-dev/) · [Portfolio](https://micheleandrade.dev/) · [Public engineering projects](#featured-engineering-projects)
 
 <p align="center">
-  Java & Spring Boot • TypeScript • Node.js • React • PostgreSQL • AWS
+  <img src="./welcome-purple.png" alt="Welcome — purple and neon lettering" width="420" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/michele-andrade-dev/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+## Featured Engineering Projects
 
-  <a href="https://micheleandrade.dev/">
-    <img
-      src="https://img.shields.io/badge/Portfólio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"
-      alt="Portfólio"
-    />
-  </a>
+### Sabli · Restaurant SaaS
 
-  <a href="mailto:michele.silva0511@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"
-      alt="E-mail"
-    />
-  </a>
-</p>
+Restaurant SaaS under development at Emilabs. The main branch currently contains a frontend demonstration; Java/Spring Boot backend work and integrations are under review in development branches.
 
-<hr>
+**Status:** private repository. No source code or internal documentation is published here.
 
-<h2>👩🏻‍💻 Sobre mim</h2>
+### [Nivva](https://github.com/michelesilva20/nivva) · Personal finance
 
-<p>
-  Sou <strong>Software Engineer</strong>, com experiência no desenvolvimento
-  e evolução de aplicações web e mobile, APIs, integrações e sistemas
-  corporativos utilizados em ambientes reais de negócio.
-</p>
+A mobile application and Java backend for organizing accounts, income, expenses and goals.
 
-<p>
-  Atuo de ponta a ponta no desenvolvimento de soluções, conectando
-  <strong>requisitos, regras de negócio, frontend, backend, bancos de dados,
-  cloud e evolução de sistemas em produção</strong>.
-</p>
+**Stack:** Java 21 · Spring Boot · PostgreSQL · React Native · Expo · TypeScript.
 
-<p>
-  Minha experiência profissional envolve principalmente
-  <strong>React, TypeScript, Node.js, NestJS, PostgreSQL, AWS e Docker</strong>,
-  enquanto aprofundo minha atuação com
-  <strong>Java e Spring Boot</strong>.
-</p>
+**Engineering focus:** user-owned financial data, integer-cent amounts, derived balances, repository adapters and concurrency control for goal contributions. The codebase includes JUnit/Testcontainers and TypeScript tests.
 
-<p>
-  Também utilizo <strong>Inteligência Artificial aplicada à Engenharia de Software</strong>
-  para apoiar análise de requisitos, planejamento, implementação, debugging,
-  refatoração, revisão e documentação, mantendo validação técnica sobre
-  código e decisões de engenharia.
-</p>
+**Status:** active development. Accounts, transactions and goals can use the API; monthly budgets remain on-device. AI insights, Open Finance and cloud deployment are future work.
 
-<hr>
+[Explore code and documentation](https://github.com/michelesilva20/nivva)
 
-<h2>💜 Projetos em destaque</h2>
+### [Nexum Tower](https://github.com/michelesilva20/Nexum-Tower) · Logistics platform
 
-<h3>Nivva — Personal Finance Intelligence</h3>
+A full-stack platform for multi-tenant administration and logistics master data: branches, customers, locations, drivers, vehicles and routes.
 
-<p>
-  Plataforma de finanças pessoais criada para ir além do registro tradicional
-  de receitas e despesas, transformando dados financeiros em
-  <strong>análises, padrões e insights personalizados</strong>.
-</p>
+**Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma.
 
-<p>
-  O projeto também é meu principal laboratório de evolução em
-  <strong>Java, Spring Boot, arquitetura, cloud e IA aplicada a produtos digitais</strong>.
-</p>
+**Engineering focus:** tenant and branch access boundaries, RBAC/ABAC, cookie-based authentication, audit records, service tests and a CI definition.
 
-<p>
-  <strong>Stack:</strong>
-  Java • Spring Boot • React • PostgreSQL • Docker • AWS • GenAI
-</p>
+**Status:** in development. The operational dashboard uses demonstration data. Shipment/trip execution and product AI are future work; database isolation has deployment validation gates.
 
-<br>
+### [Eduvy](https://github.com/michelesilva20/eduvy) · Learning and assessments
 
-<h3>🧠 NINA — Professional Knowledge & Career Intelligence</h3>
+A learning platform with courses, cohorts, enrollments, progress and assessment workflows.
 
-<p>
-  Plataforma de inteligência profissional voltada à organização de experiências,
-  projetos, skills e vagas, com recursos de análise de aderência,
-  evidências profissionais e integração com Inteligência Artificial.
-</p>
+**Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma · Redis/BullMQ.
 
-<p>
-  <strong>Stack:</strong>
-  Next.js • NestJS • TypeScript • PostgreSQL • Prisma • OpenAI • Docker
-</p>
+**Engineering focus:** tenant-aware data access, assessment rules, transactional outbox infrastructure, database tests and CI configuration.
 
-<br>
+**Status:** in development. No commercial deployment or generative AI functionality is claimed.
 
-<h3>💳 Veltrix</h3>
+### Frontend and product experience
 
-<p>
-  Aplicação Full Stack desenvolvida com foco em
-  <strong>arquitetura, segurança, APIs, autenticação, banco de dados
-  e preparação para infraestrutura de produção</strong>.
-</p>
+[Luméa Beauty](https://github.com/michelesilva20/lumea-beauty) explores a beauty storefront, reusable components and responsive visual design. [RotaFlux](https://github.com/michelesilva20/rotaflux) and [RedaçãoLab](https://github.com/michelesilva20/redacaolab) explore logistics and education workflows.
 
-<p>
-  <strong>Foco:</strong>
-  Software Architecture • APIs • PostgreSQL • Docker • Security
-</p>
+These are **frontend prototypes** with demonstration data, rather than evidence of production backend services.
 
-<br>
+## Tech Stack
 
-<p align="center">
-  <a href="https://micheleandrade.dev/">
-    <strong>→ Ver projetos e cases no meu portfólio</strong>
-  </a>
-</p>
+| Area | Technologies and practice |
+| --- | --- |
+| Backend · professional experience | Node.js, NestJS, TypeScript, REST APIs and integrations |
+| Backend · deepening specialization | Java, Spring Boot, domain modeling and backend architecture |
+| Frontend & mobile | React, React Native, TypeScript and JavaScript |
+| Data & infrastructure | PostgreSQL, SQL, AWS and Docker |
+| Engineering | Git, automated tests, API contracts, documentation and CI/CD workflows |
+| AI-assisted engineering | Generative AI for requirements, implementation, debugging, review, tests and documentation |
 
-<hr>
+## Engineering + AI
 
-<h2>⚙️ Stack</h2>
+I use AI to support requirements analysis, technical planning, implementation, debugging, refactoring, code review, test creation and documentation. Technical decisions, critical review, security and validation remain human responsibilities.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
-</p>
+AI assistance during development is distinct from AI inside a product. My private NINA project includes a backend OpenAI integration; that code is not publicly available for review. Nivva's intelligent insights remain planned.
 
-<hr>
+## Education
 
-<h2>🧠 Engenharia + IA</h2>
+- **Degree in Systems Analysis and Development** — FATEC.
+- **MBA in Data Science, Artificial Intelligence and Analytics** — USP/ESALQ, in progress.
 
-<p>
-  Utilizo IA como ferramenta de apoio ao ciclo de desenvolvimento:
-</p>
+## Contact & Opportunities
 
-<p align="center">
-  <code>
-    Requisitos → Planejamento → Implementação → Debugging → Review → Testes → Documentação
-  </code>
-</p>
+I am open to software engineering opportunities in Brazil and internationally, including remote roles from Brazil and European opportunities that consider international candidates.
 
-<p>
-  O objetivo é aumentar produtividade e capacidade de análise sem abrir mão de
-  <strong>qualidade, segurança, contexto, testes e responsabilidade técnica</strong>.
-</p>
+[LinkedIn](https://www.linkedin.com/in/michele-andrade-dev/) · [Portfolio](https://micheleandrade.dev/)
 
-<hr>
+## Em português
 
-<h2>🎓 Formação</h2>
-
-<p>
-  <strong>MBA em Data Science, Inteligência Artificial e Analytics</strong><br>
-  USP/ESALQ
-</p>
-
-<p>
-  <strong>Tecnologia em Análise e Desenvolvimento de Sistemas</strong><br>
-  FATEC Botucatu
-</p>
-
-<hr>
-
-<p align="center">
-  <strong>Software Engineering • AI • Products • Cloud</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/michele-andrade-dev/">LinkedIn</a>
-  •
-  <a href="https://micheleandrade.dev/">Portfólio</a>
-  •
-  <a href="mailto:michele.silva0511@gmail.com">E-mail</a>
-</p>
+Sou Software Engineer com experiência em sistemas web e mobile, APIs e integrações, principalmente com TypeScript, Node.js/NestJS e React/React Native. Aprofundo Java e Spring Boot com foco em backend, arquitetura, segurança e testes. Uso IA com revisão e responsabilidade técnica. Sabli e Nivva orientam minha evolução de produto; os projetos públicos acima permitem explorar evidências de código e documentação.
